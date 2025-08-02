@@ -1,0 +1,10 @@
+C:\Users\kovan\OneDrive\Desktop\gova\TTF\bin\Debug\TTF.exe.config
+C:\Users\kovan\OneDrive\Desktop\gova\TTF\bin\Debug\TTF.exe
+C:\Users\kovan\OneDrive\Desktop\gova\TTF\bin\Debug\TTF.pdb
+C:\Users\kovan\OneDrive\Desktop\gova\TTF\obj\Debug\TTF.csproj.AssemblyReference.cache
+C:\Users\kovan\OneDrive\Desktop\gova\TTF\obj\Debug\TTF.Form1.resources
+C:\Users\kovan\OneDrive\Desktop\gova\TTF\obj\Debug\TTF.Properties.Resources.resources
+C:\Users\kovan\OneDrive\Desktop\gova\TTF\obj\Debug\TTF.csproj.GenerateResource.cache
+C:\Users\kovan\OneDrive\Desktop\gova\TTF\obj\Debug\TTF.csproj.CoreCompileInputs.cache
+C:\Users\kovan\OneDrive\Desktop\gova\TTF\obj\Debug\TTF.exe
+C:\Users\kovan\OneDrive\Desktop\gova\TTF\obj\Debug\TTF.pdb
